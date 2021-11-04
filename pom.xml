@@ -9,6 +9,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>notfond-mapstruct</module>
+        <module>notfand-mapstruct</module>
     </modules>
 </project>
