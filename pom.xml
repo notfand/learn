@@ -10,5 +10,6 @@
 
     <modules>
         <module>notfand-mapstruct</module>
+        <module>notfand-knife4j</module>
     </modules>
 </project>

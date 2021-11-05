@@ -1,0 +1,11 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: notfand-knife4j
+  datasource:
+    druid:
+      url: jdbc:mysql://39.108.79.4:3306/
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: root
